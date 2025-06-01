@@ -7,4 +7,4 @@ Replace files in "kitty" to ~/.config/kitty/
 I will hapy if someone will setup it :)
 
 ### WARNING!
-Please, check and remake hyprland/hyprpaper.conf.
+Please, check and remake hyprpaper.conf.
